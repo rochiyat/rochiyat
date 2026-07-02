@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Professional developer with 10+ years of experience, focused on <strong>Java</strong> and <strong>JavaScript</strong> ecosystems.<br/>Passionate about clean architecture, design, and knowledge sharing.</em>
+  <em>Professional developer with 13+ years of experience, focused on <strong>Java</strong> and <strong>JavaScript</strong> ecosystems.<br/>Passionate about clean architecture, design, and knowledge sharing.</em>
 </p>
 
 <p align="center">
