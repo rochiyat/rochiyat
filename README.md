@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rochiyat&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochiyat&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rochiyat&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rochiyat&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rochiyat&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=rochiyat&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
